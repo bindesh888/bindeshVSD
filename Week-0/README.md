@@ -58,7 +58,7 @@ Icarus Verilog is a powerful Verilog compiler and simulator used for functional 
 ```bash
 sudo apt-get install iverilog
 ```
-
+![Image](https://github.com/user-attachments/assets/16d542b1-1073-4815-9e89-5a917900c811)
 -----
 
 ### 3\. GTKWave - Waveform Viewer
