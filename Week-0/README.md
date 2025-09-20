@@ -44,7 +44,7 @@ sudo apt-get install build-essential clang bison flex libreadline-dev gawk tcl-d
 make
 sudo make install
 ```
-
+![Image](https://github.com/user-attachments/assets/ab8fa354-ed59-466f-a920-2e6be29c0313)
 -----
 
 ### 2\. Icarus Verilog (Iverilog) - Verilog Simulator
