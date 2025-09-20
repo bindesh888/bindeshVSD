@@ -72,5 +72,5 @@ GTKWave is a waveform viewer that allows for the visualization and analysis of s
 ```bash
 sudo apt-get install gtkwave
 ```
-
+![Image](https://github.com/user-attachments/assets/8acbe8e4-7f62-4977-a0f7-27feac43f7b4)
 -----
